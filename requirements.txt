@@ -1,0 +1,16 @@
+# Finance dependencies
+yfinance
+Jinja2
+
+# Testing dependencies
+pynose
+pinocchio
+factory-boy
+
+# Code Coverage
+coverage
+
+# dev dependencies
+pandas
+numpy
+matplotlib
